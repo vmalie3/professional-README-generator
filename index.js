@@ -36,7 +36,7 @@ const questions = [
             'MIT',
             'CC',
             'BSD',
-            'none'
+            'none',
         ],
     },
     {

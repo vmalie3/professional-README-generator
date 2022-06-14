@@ -1,15 +1,14 @@
 # test
 
-![license](https://img.shields.io/badge/license-GPL-blueviolet)
+
 
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [License](#license)
-5. [Contributing](#contributing)
-6. [Test](#test)
-7. [Questions](#questions)
+4. [Contributing](#contributing)
+5. [Test](#test)
+6. [Questions](#questions)
 
 ## Description
 
@@ -23,9 +22,8 @@ test
 
 test
 
-## License
 
-This project is licensed by GPL
+
 
 ## Contibuting
 
@@ -37,7 +35,8 @@ test
 
 ## Questions
 
-If you hav any questions please feel free to reach out via email at vmalie3@gmail.com!
+If you have any questions please feel free to reach out via email at test!
+
 You may also reach out via github at the link below:
 
-[Repository](https://github.com/vmalie3/test)
+[Repository](https://github.com/test/test)
