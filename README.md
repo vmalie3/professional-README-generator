@@ -12,8 +12,6 @@ By running the index.js, a user is prompted in their terminal to answer a few qu
 
 To do this, I utilized node's file system, along with the inquirer. I utilized objects and functions. I used an outside source to create a badge for the chosen license. I utilized functions to remove the license section if no license was used. I used the file system to write a read me file, and I used template literals within the inserted information to add the user's input.
 
-I was unable to utilize my gitignore properly as I didn't read that part of the README prior to adding the node modules. I plan to fix this ASAP.
-
 ## Visuals
 ![README generator gif](./sample/ezgif.com-gif-maker%20(1).gif)
 
