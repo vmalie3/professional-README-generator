@@ -16,20 +16,24 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  if (license === 'none'|| 'CC') {
+  if (license === 'none') {
     return '';
   }
-  if (license === 'GPL' || 'Apache') {
-    return (`[${license}](https://https://choosealicense.com/licenses/${license}-2.0/)`);
+  else if (license === 'GPL' || 'Apache') {
+    return (
+`[${license}](https://https://choosealicense.com/licenses/${license}-2.0/)`);
   }
-  if (license === 'MIT') {
-    return (`[${license}](https://https://choosealicense.com/licenses/${license}/)`);
+  else if (license === 'MIT') {
+    return (
+`[${license}](https://https://choosealicense.com/licenses/${license}/)`);
   }
-  if (license === 'BSD') {
-    return (`[${license}](https://https://opensource.org/licenses/BSD-3-Clause)`);
+  else if (license === 'BSD') {
+    return (
+`[${license}](https://https://opensource.org/licenses/BSD-3-Clause)`);
   }
-  if (license === 'NPL') {
-    return (`[${license}](https://https://spdx.org/licenses/NPL-1.1.html)`);
+  else if (license === 'NPL') {
+    return (
+`[${license}](https://https://spdx.org/licenses/NPL-1.1.html)`);
   }
 };
 
@@ -93,6 +97,7 @@ ${installation}
 ${usage}
 
 ${renderLicenseSection(license)}
+
 ${renderLicenseLink(license)}
 
 ## Contibuting

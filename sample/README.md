@@ -1,14 +1,15 @@
 # test
 
-
+![license](https://img.shields.io/badge/license-NPL-blueviolet)
 
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [Test](#test)
-6. [Questions](#questions)
+4. [License](#license)
+5. [Contributing](#contributing)
+6. [Test](#test)
+7. [Questions](#questions)
 
 ## Description
 
@@ -22,8 +23,10 @@ test
 
 test
 
+## License
+This project is licensed by NPL
 
-
+[NPL](https://https://choosealicense.com/licenses/NPL-2.0/)
 
 ## Contibuting
 
