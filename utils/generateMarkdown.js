@@ -51,6 +51,7 @@ This project is licensed by ${license}`);
   }
 };
 
+// This function alters the table of contents based on whether or not there's a license
 function changeTableOfContents (license) {
   if (license === 'none') {
     return (
