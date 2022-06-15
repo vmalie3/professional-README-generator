@@ -71,9 +71,6 @@ function changeTableOfContents (license) {
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown({title, description, installation, usage, license, contributing, test, gitHub, email}) {
-  
-  console.log (title);
-
   const template = ( 
 `# ${title}
 
