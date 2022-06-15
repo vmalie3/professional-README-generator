@@ -15,7 +15,7 @@ To do this, I utilized node's file system, along with the inquirer. I utilized o
 I was unable to utilize my gitignore properly as I didn't read that part of the README prior to adding the node modules. I plan to fix this ASAP.
 
 ## Visuals
-![Password](./sample/professional-README-generator-screen-recording.mp4)
+![README generator gif](./sample/ezgif.com-gif-maker%20(1).gif)
 
 ## Resources
 
